@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 <div align=center> 
-<p>$\huge{\rm{\color{#5ad7b7} # Wookbin  Jin}}$</p>
+# Wookbin Jin
 </div>
 
 - I am a robot application software developer. 
