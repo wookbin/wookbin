@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 <p align="center">
-  <span style="font-size: 40px; color: #32CD32; font-weight: bold;">Wookbin Jin</span>
+  <span style="font-size: 80px; color: #32CD32; font-weight: bold;">Wookbin Jin</span>
 </p>
 
 - I am a robot application software developer. 
