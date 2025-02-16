@@ -9,7 +9,7 @@
 
 - At our company, I am in charge of developing robotics application software using ROS. ![ROS](https://img.shields.io/badge/ROS-ROS2-gray?logo=ros&logoColor=white)
 
-<!-[![wookbin GitHub stats](https://github-readme-stats.vercel.app/api?username=wookbin)](https://github.com/anuraghazra/github-readme-stats)-->
+#[![wookbin GitHub stats](https://github-readme-stats.vercel.app/api?username=wookbin)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
