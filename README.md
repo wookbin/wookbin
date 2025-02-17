@@ -1,17 +1,15 @@
 ## Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Wookbin%20Jin&animation=&fontColor=000000&fontSize=70" />
+</div>
 
-<p align="center">
-  <span style="font-size: 80px; color: #32CD32; font-weight: bold;">Wookbin Jin</span>
-</p>
 
 - I am a robot application software developer. 
 
 - My main language is C/C++. <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
 - At our company, I am in charge of developing robotics application software using ROS. ![ROS](https://img.shields.io/badge/ROS-ROS2-gray?logo=ros&logoColor=white)
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
 
 
