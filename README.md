@@ -11,3 +11,4 @@
 
 - ![ROS](https://img.shields.io/badge/ROS-ROS2-gray?logo=ros&logoColor=white) : I am in charge of developing robotics application software at our company, and I am also in charge of developing applications using ROS.
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wookbin)](https://github.com/anuraghazra/github-readme-stats)
