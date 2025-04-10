@@ -1,7 +1,9 @@
 ## Hi there 👋 
 
 
+![visitor badge](https://visitor-badge.imlete.cn/?id=github.woobin.visitor-badge)
 ![visitor badge](https://visitor-badge.imlete.cn/?id=github.woobin.visitor-badge&labelColor=0080ff)
+
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Wookbin%20Jin&animation=&fontColor=000000&fontSize=70" />
