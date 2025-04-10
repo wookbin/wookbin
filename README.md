@@ -2,7 +2,6 @@
 
 
 ![visitor badge](https://visitor-badge.imlete.cn/?id=github.woobin.visitor-badge)
-![visitor badge](https://visitor-badge.imlete.cn/?id=github.woobin.visitor-badge&labelColor=0080ff)
 
 
 <div align= "center">
