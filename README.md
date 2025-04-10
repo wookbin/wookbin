@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwookbin%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![visitor badge](https://visitor-badge.imlete.cn/?id=github.woobin.visitor-badge&labelColor=f00)
+![visitor badge](https://visitor-badge.imlete.cn/?id=github.woobin.visitor-badge&labelColor=0080ff)
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Wookbin%20Jin&animation=&fontColor=000000&fontSize=70" />
